@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Jay Shaw,a Chinese frontend programmer.My aim is to be a Full-Stack Engineer.
+My name is Jay Shaw,a Chinese web frontend developer.My aim is to be a Full-Stack Engineer.
 
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,vue,vite,webpack,git,github,githubactions,md,vscode" />
