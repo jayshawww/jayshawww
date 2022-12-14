@@ -21,4 +21,4 @@ My name is Jay Shaw,a Chinese web frontend developer.My aim is to be a Full-Stac
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,electron,jquery,vue,vite,webpack,git,github,githubactions,md,vscode" />
 
 ### 🌱 I’m currently learning
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,nodejs,linux,mysql" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,java,nodejs,linux,mysql" />
